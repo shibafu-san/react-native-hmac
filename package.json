@@ -1,6 +1,6 @@
 {
   "name": "react-native-hmac",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provide the function that calculates the HMAC of a message as a Native Module.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
