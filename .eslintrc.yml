@@ -1,0 +1,13 @@
+---
+root: true
+extends:
+  - eslint:recommended
+  - prettier
+  - "@react-native-community"
+rules:
+  quotes:
+    - error
+    - single
+    -
+      avoidEscape: true
+      allowTemplateLiterals: true
